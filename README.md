@@ -1,4 +1,4 @@
-
+# I do not own any part of this repo. This is only for experimental and study purposes
 # Decision Transformer
 
 Lili Chen\*, Kevin Lu\*, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas†, and Igor Mordatch†
